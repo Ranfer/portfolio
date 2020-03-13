@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "test title",
+      "description": "test desc",
+      "id": 1
+    },
+    {
+      "title": "test stream",
+      "description": "second stream",
+      "id": 2
+    },
+    {
+      "title": "First user id edited",
+      "description": "first stream with my id edited",
+      "userId": "103794412762945811706",
+      "id": 3
+    },
+    {
+      "title": "test",
+      "description": "test to delete",
+      "userId": "103794412762945811706",
+      "id": 4
+    }
+  ]
+}
