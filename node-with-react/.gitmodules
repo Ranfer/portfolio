@@ -1,0 +1,3 @@
+[submodule "node-with-react/server"]
+	path = node-with-react/server
+	url = https://git.heroku.com/infinite-coast-24297.git
